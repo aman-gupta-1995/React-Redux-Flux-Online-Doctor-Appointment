@@ -2,7 +2,7 @@
 <items version="2" > 
    
     <item   
-        is-multidex="true"
+        is-multidex="true" 
         jar="E:\off_wrk\freshdoctorapp\Medi360_Android_WS\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
