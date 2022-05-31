@@ -64,7 +64,7 @@ public class PreviousAppintmentListAdapter extends BaseAdapter {
         System.out.println("statustempstatustemp : " + statustemp);
         if (statustemp.contains("0")) {
 
-            try {
+            try { 
                 String tempappdate = appointmentData.getdate();
                 DateFormat format = new SimpleDateFormat("yyyy-MM-dd");
                 Date date = format.parse(tempappdate);
