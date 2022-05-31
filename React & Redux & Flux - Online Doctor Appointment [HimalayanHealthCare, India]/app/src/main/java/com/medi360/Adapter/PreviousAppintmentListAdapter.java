@@ -27,7 +27,7 @@ public class PreviousAppintmentListAdapter extends BaseAdapter {
         this.appointmentListData = appointmentListData;
     }
     @Override
-    public int getCount() {
+    public int getCount() { 
         return appointmentListData.size();
     }
 
