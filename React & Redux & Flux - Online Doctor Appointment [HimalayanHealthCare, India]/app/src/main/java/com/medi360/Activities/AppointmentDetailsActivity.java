@@ -1,7 +1,7 @@
 package com.medi360.Activities;
 
 import android.app.Activity;
-import android.app.AlertDialog;
+import android.app.AlertDialog; 
 import android.app.Dialog; 
 import android.app.ProgressDialog;
 import android.content.Context;
