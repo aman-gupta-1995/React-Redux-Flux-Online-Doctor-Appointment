@@ -4,7 +4,7 @@ package com.medi360.Model;
  * Created by Mohanraj.SK on 6/26/2016.
  */  
 public class AppointmentData {   
-    String appointmentTime; 
+    String appointmentTime;  
     String appointmentId; 
     String doctorName,date,Am;
     String appointmentSession,complaintText,complaintType,getAppointmentDay,complaintid,SpecialistID;
