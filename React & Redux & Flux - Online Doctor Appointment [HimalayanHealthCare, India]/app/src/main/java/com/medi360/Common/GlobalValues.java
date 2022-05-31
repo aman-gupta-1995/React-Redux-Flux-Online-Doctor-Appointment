@@ -5,7 +5,7 @@ import com.medi360.Model.ScheduleAppointmentData;
 
 /**
  * Created by mohanraj.sk on 6/28/2016.  
- */
+ */ 
 public class GlobalValues { 
     static AppointmentData selectedAppointmentDetails;
     static ScheduleAppointmentData scheduleAppointmentData;
