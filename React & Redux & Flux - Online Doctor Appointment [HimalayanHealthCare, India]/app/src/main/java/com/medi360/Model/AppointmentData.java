@@ -2,7 +2,7 @@ package com.medi360.Model;
 
 /**
  * Created by Mohanraj.SK on 6/26/2016.
- */ 
+ */  
 public class AppointmentData { 
     String appointmentTime;
     String appointmentId;
